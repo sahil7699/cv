@@ -98,7 +98,7 @@ p{
 }
 .coding-lang-li{
     display: inline;
-    background:url("../images/language_sprite.png");
+    background:url("images/language_sprite.png");
     zoom: 0.55;
 }
 .coding-lang-list p{
@@ -190,7 +190,7 @@ p{
     }
     .coding-lang-li{
         display: inline;
-        background:url("../images/language_sprite.png");
+        background:url("images/language_sprite.png");
         zoom: 0.55;
     }
     .coding-lang-list p{
